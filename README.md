@@ -1,7 +1,6 @@
 # LongQi.Github.io-
 这里是龙七的网站
+##友情链接
 
-#点开有惊喜
-
-(https://m.bilibili.com/video/BV1GJ411x7h7)
+[mmPlayer](https://github.com/maomao1996/Vue-mmPlayer)
 
