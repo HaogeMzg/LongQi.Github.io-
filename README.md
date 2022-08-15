@@ -2,5 +2,5 @@
 这里是龙七的网站
 下面链接有彩蛋
 
-[mmPlayer](https://github.com/maomao1996/Vue-mmPlayer)
+[菜单](https://m.bilibili.com/video/BV1GJ411x7h7)
 
