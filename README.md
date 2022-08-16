@@ -1,9 +1,2 @@
 # LongQi.Github.io-
-<html>
-<body>
-Hello！这里是龙七的网站
-</body>
-</html>
-友情链接，点开下面是我建这个网站给你们的彩蛋
-
-[点开有惊喜](https://www.bilibili.com/video/BV1GJ411x7h7)
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=3&id=2071082281&auto=1&height=66"></iframe>
