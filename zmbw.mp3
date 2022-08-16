@@ -1,11 +1,3 @@
 #zmbw.mp3
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>index</title>
-</head>
-<body>
-<audio src="https://gc-sycdn.kuwo.cn/032bd099563245b82a16e0f7c45508f3/62fb1c63/resource/n1/22/83/2819296595.mp3" loop="loop" controls="controls" autoplay="autoplay"></audio>
-</body>
-</html>
+<audio controls autoplay="autoplay" loop="loop">
+<source src="https://gc-sycdn.kuwo.cn/032bd099563245b82a16e0f7c45508f3/62fb1c63/resource/n1/22/83/2819296595.mp3" type="audio/mpeg" />
